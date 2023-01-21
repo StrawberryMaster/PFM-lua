@@ -1,0 +1,9 @@
+/.vscode
+/deps
+bottest.lua
+config.lua
+discordia.log
+gateway.json
+lit.exe
+luvi.exe
+luvit.exe
