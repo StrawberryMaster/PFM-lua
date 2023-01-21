@@ -12,3 +12,11 @@ PFM (short for PassionFruitMaster) is a simple Discord bot that allows you to ha
 | :pokemon: | Bot replies with a random Bulbapedia article | ++pokemon | pokemon [query] | ++pokemon Bulbasaur |
 | :log: | Experimental. Bot replies with a punishment log | ++log | log [query] | ++log ID Warning Test |
 | :help: | Bot replies with a list of commands | ++help | help | ++help |
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+* [Discordia](https://github.com/SinisterRectus/Discordia) - Discord API library for Lua
+* [Cherkasy](https://github.com/Cherkasy) - Original author of the "number" command
+* [Lua](https://www.lua.org/) - Programming language
